@@ -1,2 +1,2 @@
 # Instagram-scraper
-Instagram scraper
+Instagram scraper built with nodeJS
